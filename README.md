@@ -8,4 +8,4 @@
 
 ## Acerca del programador
 Autor y diseño: Arturo Napa
-Mi carrera es: **Ingeniería de Sostware con IA**
+Mi carrera es: **Ingeniería de Software con IA**
