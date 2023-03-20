@@ -1,0 +1,50 @@
+*{
+    border: 0;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.titulo{
+    text-align: center;
+    background-color: chocolate;
+    padding: 20px;
+    padding-bottom: 20px;
+}
+
+.p{
+    background-color: white;
+    text-align: left;
+    padding: 35px;
+    padding-bottom: 20px;
+}
+
+h2{
+    text-align: left;
+    background-color: white;
+    padding: 20px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+h3{
+    text-align: left;
+    background-color: white;
+    padding: 20px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.boton{
+    border: 7px solid darkcyan;
+    background-color: moccasin;
+    color: black;
+    padding: .7em;
+    cursor: pointer;
+    margin: auto;
+}
+
+.boton.hover{
+    color: green
+}
